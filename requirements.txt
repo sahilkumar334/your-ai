@@ -1,0 +1,8 @@
+streamlit
+requests
+gtts
+qrcode[pil]
+PyPDF2
+pillow
+SpeechRecognition
+pyaudio
